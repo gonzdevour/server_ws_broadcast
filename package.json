@@ -4,7 +4,7 @@
   "description": "websocket broadcast server",
   "main": "broadcast.js",
   "scripts": {
-    "test": "node broadcast.js"
+    "start": "node broadcast.js"
   },
   "repository": {
     "type": "git",
