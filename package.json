@@ -1,0 +1,22 @@
+{
+  "name": "server_ws_broadcast",
+  "version": "1.0.0",
+  "description": "websocket broadcast server",
+  "main": "broadcast.js",
+  "scripts": {
+    "test": "node broadcast.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzdevour/server_ws_broadcast.git"
+  },
+  "keywords": [
+    "ws"
+  ],
+  "author": "playone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gonzdevour/server_ws_broadcast/issues"
+  },
+  "homepage": "https://github.com/gonzdevour/server_ws_broadcast#readme"
+}
